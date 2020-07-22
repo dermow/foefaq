@@ -3,7 +3,7 @@
 Herzlich Willkommen bei Red Rose!
 Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 
-Unseren Mitgliedern bieten wir :
+#### Unseren Mitgliedern bieten wir :
 
 - Täglich 4 FP aus dem Rathaus
 - Mehrere Förderketten (5,10,20,30,40,50,100,150FP)
@@ -17,7 +17,7 @@ Unseren Mitgliedern bieten wir :
 - Schwarzes Brett
 - Quasselecke & alles andere
 
-Folgendes erwarten wir von Euch :
+#### Folgendes erwarten wir von Euch :
 
 - Teilnahme an der Gex Stufe1 Plicht für alle ab 750.000 
   Punkten, darunter Teilnahme je nach Möglichkeit 
@@ -31,10 +31,6 @@ Folgendes erwarten wir von Euch :
 - Ab 750.000 Punkten Mindestens 1 Gilden LG bzw.   
   Ehrenstatue ab Lvl 2   
 
-Bewerbungen bitte an "sila12" aus der Gildenleitung 
-
-Viele Grüße
-Die Gildenleitung
 
 ## Allgemeine Infos
 
@@ -69,7 +65,7 @@ Wenn ihr euer LG einstellt, solltet ihr natürlich auch die entsprechende Menge 
 
 
 ### Fairer Handel
-Tauscht Güter aus dem selben Zeitalter (ZA) immer 1 : 1 .
-Güter aus kleinem ZA gegen großes ZA werden mit 2 : 1 getauscht . Immer nur ein ZA Unterschied
-Güter aus großem ZA gegen kleinem ZA werden mit 1 : 2 getauscht . Immer nur ein ZA Unterschied
+- Tauscht Güter aus dem selben Zeitalter (ZA) immer 1 : 1 .
+- Güter aus kleinem ZA gegen großes ZA werden mit 2 : 1 getauscht . Immer nur ein ZA Unterschied
+- Güter aus großem ZA gegen kleinem ZA werden mit 1 : 2 getauscht . Immer nur ein ZA Unterschied
 
