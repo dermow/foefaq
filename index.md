@@ -8,31 +8,44 @@ Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 - Täglich 4 FP aus dem Rathaus
 - Mehrere Förderketten (5,10,20,30,40,50,100,150FP)
 - 1.8x Förderung
-- Einen fairen Gildeninternen Marktplatz
+- Einen fairen gildeninternen Marktplatz
 - Einen Chat für die Vergabe freier Mäzenplätze
 - Eine Gerüstbauhilfe
-- Levelhilfe für Gildengebäuden
+- Levelhilfe für Gildengebäude
 - Wöchentliche Freischaltung der Stufe IV der GEX
-- GG-Koordinations Chat
+- Koordinations Chat für Gildengefechte
 - Schwarzes Brett
-- Quasselecke & alles andere
+- Quasselecke & alles anderes
 
 #### Folgendes erwarten wir von Euch :
 
-- Teilnahme an der Gex Stufe1 Plicht für alle ab 750.000 
+- Teilnahme an der Gildenexpedition Stufe 1 Plicht für alle ab 750.000 
   Punkten, darunter Teilnahme je nach Möglichkeit 
-  mindestens aber 4 Platformen 
+  mindestens aber 4 Plattformen 
 
-- Teilnahme an Gildengefechten ab Zeitalter Frühes 
-  Mittelalter bzw. 750.000 Punkten Pflicht mit mind. 10 
+- Teilnahme an Gildengefechten ab Zeitalter "Frühes 
+  Mittelalter" bzw. 750.000 Punkten Pflicht mit mind. 10 
   Kämpfen bzw. 5 Verhandlungen, d.h. umgerechnet 
-  1x pro Tag 1 Kampf
+  1 Kampf pro Tag
 
-- Ab 750.000 Punkten Mindestens 1 Gilden LG bzw.   
+- Ab 750.000 Punkten mindestens 1 Gilden LG bzw.   
   Ehrenstatue ab Lvl 2   
 
 
 ## Allgemeine Infos
+
+### Abkürzungen
+- LG = Legendäres Gebäude
+- FP = ForgePunkte
+- GG = Gilden-Gefechte
+- Gex = Gildenexpedition
+- ZA = Zeitalter
+- BP = Blaupause(n)
+
+### Gilden LG
+Die wichtigsten Gilden-LG (Legendäre Bauwerke, die Güter für die Gilde produzieren) sind:
+- Die Arche
+- Observatorium
 
 ### Video-Tutorials (foetipps)
 Für fast alle Themen gibt es von "foetipps" extrem gute Erklär-Videos hier:
@@ -68,4 +81,7 @@ Wenn ihr euer LG einstellt, solltet ihr natürlich auch die entsprechende Menge 
 - Tauscht Güter aus dem selben Zeitalter (ZA) immer 1 : 1 .
 - Güter aus kleinem ZA gegen großes ZA werden mit 2 : 1 getauscht . Immer nur ein ZA Unterschied
 - Güter aus großem ZA gegen kleinem ZA werden mit 1 : 2 getauscht . Immer nur ein ZA Unterschied
+
+### Die Arche auch schon vor dem Zeitalter "Zukunft" bauen
+Es gibt einen Weg das LG "Die Arche" auch schon vor dem Zeitalter Zukunft zu errichten. Dazu sucht man sich (In der Gilde, im Chat...) einen Spieler, der einem die Güter für eine gewisse Anzahl an FP (Die dann in ein vom Verkäufer genanntes LG eingezahlt werden sollen) verkauft. Für die BPs am besten in der Gilde nach freien Plätzen in den Archen fragen.
 
