@@ -3,6 +3,7 @@
 Herzlich Willkommen bei Red Rose!
 Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 
+
 #### Unseren Mitgliedern bieten wir :
 
 - Täglich 4 FP aus dem Rathaus
@@ -16,6 +17,7 @@ Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 - Koordinations Chat für Gildengefechte
 - Schwarzes Brett
 - Quasselecke & alles anderes
+
 
 #### Folgendes erwarten wir von Euch :
 
@@ -42,18 +44,20 @@ Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 - ZA = Zeitalter
 - BP = Blaupause(n)
 
+
 ### Gilden LG
 Die wichtigsten Gilden-LG (Legendäre Bauwerke, die Güter für die Gilde produzieren) sind:
 - Die Arche
 - Observatorium
+
 
 ### Video-Tutorials (foetipps)
 Für fast alle Themen gibt es von "foetipps" extrem gute Erklär-Videos hier:
 
 <https://www.youtube.com/c/FoETipps/about>
 
-### Info zur 1,8 FÖRDERGRUPPE
 
+### Info zur 1,8 FÖRDERGRUPPE
 Hier könnt ihr Plätze in euren LG´s anbieten zum 1,8-fachen der Belohnung.
 Archenbesitzer bekommen nämlich immer noch ein paar Prozent extra Belohnung
 und zahlen daher gerne ein paar mehr FP als es normalerweise zurückgibt.
@@ -82,6 +86,6 @@ Wenn ihr euer LG einstellt, solltet ihr natürlich auch die entsprechende Menge 
 - Güter aus kleinem ZA gegen großes ZA werden mit 2 : 1 getauscht . Immer nur ein ZA Unterschied
 - Güter aus großem ZA gegen kleinem ZA werden mit 1 : 2 getauscht . Immer nur ein ZA Unterschied
 
+
 ### Die Arche auch schon vor dem Zeitalter "Zukunft" bauen
 Es gibt einen Weg das LG "Die Arche" auch schon vor dem Zeitalter Zukunft zu errichten. Dazu sucht man sich (In der Gilde, im Chat...) einen Spieler, der einem die Güter für eine gewisse Anzahl an FP (Die dann in ein vom Verkäufer genanntes LG eingezahlt werden sollen) verkauft. Für die BPs am besten in der Gilde nach freien Plätzen in den Archen fragen.
-
