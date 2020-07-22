@@ -38,6 +38,11 @@ Die Gildenleitung
 
 ## Allgemeine Infos
 
+### Video-Tutorials (foetipps)
+Für fast alle Themen gibt es von "foetipps" extrem gute Erklär-Videos hier:
+
+https://www.youtube.com/c/FoETipps/about
+
 ### Info zur 1,8 FÖRDERGRUPPE
 
 Hier könnt ihr Plätze in euren LG´s anbieten zum 1,8-fachen der Belohnung.
