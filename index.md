@@ -42,6 +42,7 @@ Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 
 ### Video-Tutorials (foetipps)
 Für fast alle Themen gibt es von "foetipps" extrem gute Erklär-Videos hier:
+<https://www.youtube.com/c/FoETipps/about>
 
 ### Abkürzungen
 - LG = Legendäres Gebäude
@@ -60,7 +61,7 @@ Die wichtigsten Gilden-LG (Legendäre Bauwerke, die Güter für die Gilde produz
 
 
 
-<https://www.youtube.com/c/FoETipps/about>
+
 
 
 ### Info zur 1,8 FÖRDERGRUPPE
