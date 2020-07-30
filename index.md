@@ -36,6 +36,13 @@ Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 
 ## Allgemeine Infos
 
+### Nütliche Tools & Links
+- Foe Helfer (mit Browser Plugins): https://foe-rechner.de/docs/1/extension
+- Fandom Page: https://forgeofempires.fandom.com/wiki/Forge_of_Empires_Wiki
+
+### Video-Tutorials (foetipps)
+Für fast alle Themen gibt es von "foetipps" extrem gute Erklär-Videos hier:
+
 ### Abkürzungen
 - LG = Legendäres Gebäude
 - FP = ForgePunkte
@@ -51,8 +58,7 @@ Die wichtigsten Gilden-LG (Legendäre Bauwerke, die Güter für die Gilde produz
 - Observatorium
 
 
-### Video-Tutorials (foetipps)
-Für fast alle Themen gibt es von "foetipps" extrem gute Erklär-Videos hier:
+
 
 <https://www.youtube.com/c/FoETipps/about>
 
