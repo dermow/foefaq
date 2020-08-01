@@ -37,8 +37,17 @@ Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 ## Allgemeine Infos
 
 ### Nütliche Tools & Links
-- Foe Helfer (mit Browser Plugins): <https://foe-rechner.de/docs/1/extension>
-- Fandom Page: <https://forgeofempires.fandom.com/wiki/Forge_of_Empires_Wiki>
+#### FoeHelper Extension : 
+Link: <https://foe-rechner.de/docs/1/extension>
+
+Nützliche Tools rund um FoE, direkt als Browser-Plugins :)
+
+#### Fandom Page
+Link: <https://forgeofempires.fandom.com/wiki/Forge_of_Empires_Wiki>
+
+Viele nützliche Infos zu Forge Of Empires. Unter Anderem:
+- Alle Infos inkl. Quests zu den Events
+- Umfangreiche Infos zu allen Gebäuden und legendären Bauwerken
 
 ### Video-Tutorials (foetipps)
 Für fast alle Themen gibt es von "foetipps" extrem gute Erklär-Videos hier:
