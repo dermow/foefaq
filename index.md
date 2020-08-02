@@ -6,7 +6,7 @@ Wir freuen uns immer darüber wenn aktive Mitspieler unserer Gilde beitreten.
 
 #### Unseren Mitgliedern bieten wir :
 
-- Täglich 4 FP aus dem Rathaus
+- Täglich 5 FP aus dem Rathaus
 - Mehrere Förderketten (5,10,20,30,40,50,100,150FP)
 - 1.8x Förderung
 - Einen fairen gildeninternen Marktplatz
